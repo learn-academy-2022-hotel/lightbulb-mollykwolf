@@ -2,6 +2,9 @@ import React, { useState } from "react"
 import "./App.css"
 import LightSwitch from "./components/LightSwitch"
 
+
+
+
 const App = () => {
 
   return (
